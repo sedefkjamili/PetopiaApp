@@ -1,45 +1,50 @@
-# PetopiaApp
-Mobile Animal Adoption and Shelter Management System.
+# Welcome to your Expo app 👋
 
-# 🐾 Petopia – Mobile Animal Adoption & Shelter Management App
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-Petopia is a mobile application designed to simplify and digitize the process of animal adoption from shelters. It provides a modern platform where users can explore adoptable animals, report lost pets, receive notifications, and manage pet profiles — all from their mobile device.
+## Get started
 
-## 📱 Features
+1. Install dependencies
 
-- View newly added animals with images and details
-- Filter animals by category (Dog, Cat, Bird)
-- Report and browse lost pets
-- Add new pets with image upload
-- Receive system notifications
-- View common animal diseases by type
-- Contact shelter staff via in-app form
-- Secure login & registration system (JWT-based)
+   ```bash
+   npm install
+   ```
 
-## 🔧 Technologies Used
+2. Start the app
 
-### Frontend (React Native)
-- React Native + Expo
-- React Navigation (Expo Router)
-- AsyncStorage (JWT token storage)
-- Expo Image Picker
-- Animated menus and responsive UI
+   ```bash
+    npx expo start
+   ```
 
-### Backend (Node.js)
-- Node.js + Express.js
-- MongoDB + Mongoose
-- JWT Authentication
-- RESTful API Architecture
+In the output, you'll find options to open the app in a
 
-## 📂 Folder Structure
-/frontend # Mobile app source code (React Native)
-/backend # Node.js backend server
-/models # Mongoose schemas
-/routes # API route handlers
-/controllers # Business logic
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-## 🌍 Project Goal
-Petopia aims to improve the adoption experience for both animal lovers and shelter staff by offering a secure, user-friendly, and efficient mobile platform.
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## 📬 Contact
-For questions or contributions, feel free to open an issue or contact the developer.
+## Get a fresh project
+
+When you're ready, run:
+
+```bash
+npm run reset-project
+```
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
