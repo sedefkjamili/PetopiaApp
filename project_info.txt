@@ -9,7 +9,7 @@ Kullanılan Teknolojiler:
 - Firebase Authentication (kullanıcı doğrulama)
 
 Video Linki:
-(Buraya video bağlantısı eklenecek)
+- https://drive.google.com/drive/folders/1nw_bHYdDb_kDQwIEEz3X91AVQkiM7FOv?usp=sharing 
 
 APK Durumu:
 - APK dosyası şu an hazırlanıyor, en kısa sürede buraya yüklenecektir.
