@@ -1,43 +1,46 @@
-# 🐾 Petopia – Mobile Animal Adoption & Shelter Management App
+# 📘 BLM4522 - Ağ Tabanlı Paralel Dağıtım Sistemleri Final Projesi
 
-Petopia is a mobile application designed to simplify and digitize the process of animal adoption from shelters. It provides a modern platform where users can explore adoptable animals, report lost pets, receive notifications, and manage pet profiles — all from their mobile device.
+Bu repo, **BLM4522 - Ağ Tabanlı Paralel Sistemler** dersi final projesi kapsamında oluşturulmuştur.
 
-## 📱 Features
+Projede **MongoDB Atlas (online veritabanı)** kullanılmıştır. Uygulama, hayvan sahiplenme ve barınak yönetimi üzerine geliştirilmiş mobil bir platformdur. Proje kapsamında kullanıcı girişi, hayvan profilleri, kayıp ihbarları ve çeşitli bildirim sistemleri geliştirilmiştir.
 
-- View newly added animals with images and details
-- Filter animals by category (Dog, Cat, Bird)
-- Report and browse lost pets
-- Add new pets with image upload
-- Receive system notifications
-- View common animal diseases by type
-- Contact shelter staff via in-app form
-- Secure login & registration system (JWT-based)
+## 📁 İçerik
 
-## 🔧 Technologies Used
+- 📄 Final PDF Raporu  
+- 🎥 Proje Videosu Linki  
+- 💻 Kaynak Kodlar (Frontend & Backend)  
+- 📱 APK Dosyası (Yüklenince eklenecek)  
+- 📄 project_info.txt dosyası (özet ve notlar)  
 
-### Frontend (React Native)
+👉 **Tüm videolara ulaşmak için [buraya tıklayın](VİDEO_LİNKİNİ_BURAYA_EKLE)**  
+👉 **PDF rapor ve diğer belgeler için GitHub dosyalarını inceleyebilirsiniz.**
+
+---
+
+## 🛠 Kullanılan Teknolojiler
+
+### Mobil Uygulama (Frontend)
 - React Native + Expo
 - React Navigation (Expo Router)
-- AsyncStorage (JWT token storage)
+- AsyncStorage (JWT)
 - Expo Image Picker
-- Animated menus and responsive UI
+- Duyarlı ve animasyonlu arayüz
 
-### Backend (Node.js)
+### Sunucu (Backend)
 - Node.js + Express.js
-- MongoDB + Mongoose
-- JWT Authentication
-- RESTful API Architecture
+- MongoDB Atlas (online)
+- Mongoose
+- JWT ile Kimlik Doğrulama
+- RESTful API mimarisi
 
-## 📂 Folder Structure
-/frontend # Mobile app source code (React Native)
-/backend # Node.js backend server
-/models # Mongoose schemas
-/routes # API route handlers
-/controllers # Business logic
+---
 
+## 🎯 Proje Amacı
 
-## 🌍 Project Goal
-Petopia aims to improve the adoption experience for both animal lovers and shelter staff by offering a secure, user-friendly, and efficient mobile platform.
+Petopia, hayvan barınaklarından sahiplenmeyi kolaylaştırmak, kayıp hayvanları raporlamak ve barınak yönetimini dijitalleştirmek amacıyla geliştirilmiştir. Kullanıcı dostu arayüzü ve güvenli yapısıyla toplumsal fayda sağlamayı hedeflemektedir.
 
-## 📬 Contact
-For questions or contributions, feel free to open an issue or contact the developer.
+---
+
+## 📬 İletişim
+
+Herhangi bir soru veya katkı için issue oluşturabilir ya da doğrudan iletişime geçebilirsiniz.
