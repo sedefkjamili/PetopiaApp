@@ -15,8 +15,14 @@ APK Durumu:
 - APK dosyası şu an hazırlanıyor, en kısa sürede buraya yüklenecektir.
 
 Veritabanı Bilgisi:
-- MongoDB Atlas kullanılmaktadır, bağlantı uygulama içinde yapılandırılmıştır.
-- Herhangi bir lokal kurulum gerekmez.
+- MongoDB Atlas kullanılmıştır (online veritabanı).
+- Veritabanı bağlantısı uygulama içinde doğrudan yapılandırılmıştır.
+- Ekstra kurulum gerekmez.
+- Kullanıcı adı ve şifre uygulamaya gömülmüştür veya güvenli şekilde gizlenmiştir.
+- Hoca uygulamayı APK ile test ettiğinde veritabanı bağlantısı otomatik yapılacaktır.
+
+Not:
+- URI (connection string) GitHub'da güvenlik nedeniyle açık değildir. Ancak APK içinde çalışmaktadır.
 
 Notlar:
 - Tüm temel fonksiyonlar çalışmaktadır.
