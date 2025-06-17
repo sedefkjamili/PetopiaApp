@@ -1,0 +1,25 @@
+Proje Adı: PetopiaApp
+
+Proje Özeti:
+Bu proje, evcil hayvan sahiplerinin veteriner randevuları oluşturabileceği, evcil hayvan bilgilerini saklayabileceği ve genel takibini yapabileceği bir mobil uygulamadır.
+
+Kullanılan Teknolojiler:
+- Flutter (mobil geliştirme)
+- MongoDB Atlas (online veritabanı)
+- Firebase Authentication (kullanıcı doğrulama)
+
+Video Linki:
+(Buraya video bağlantısı eklenecek)
+
+APK Durumu:
+- APK dosyası şu an hazırlanıyor, en kısa sürede buraya yüklenecektir.
+
+Veritabanı Bilgisi:
+- MongoDB Atlas kullanılmaktadır, bağlantı uygulama içinde yapılandırılmıştır.
+- Herhangi bir lokal kurulum gerekmez.
+
+Notlar:
+- Tüm temel fonksiyonlar çalışmaktadır.
+- Eğer uygulamada çalışmayan kısımlar olursa, video anlatımında veya bu dosyada belirtilecektir.
+
+GitHub Linki: https://github.com/sedefkjamili/PetopiaApp
