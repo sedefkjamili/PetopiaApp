@@ -9,14 +9,26 @@ Projede **MongoDB Atlas (online veritabanı)** kullanılmıştır. Uygulama, hay
 - 📄 Final PDF Raporu  
 - 🎥 Proje Videosu Linki  
 - 💻 Kaynak Kodlar (Frontend & Backend)  
-- 📱 APK Dosyası (Yüklenince eklenecek)  
+- 📱 APK Dosyası
 - 📄 project_info.txt dosyası (özet ve notlar)  
 
-👉 **Tüm videolara ulaşmak için [buraya tıklayın]([VİDEO_LİNKİNİ_BURAYA_EKLE](https://drive.google.com/drive/folders/1nw_bHYdDb_kDQwIEEz3X91AVQkiM7F
-Ov?usp=sharing))**  
-👉 **PDF rapor ve diğer belgeler için GitHub dosyalarını inceleyebilirsiniz.**
+   **🔗 Proje Bağlantıları
+🎥 Video Linki:
+https://drive.google.com/file/d/10JmpK84SoS01ouBpKJGTGVjk2NjN28zj/view?usp=sharing
 
----
+🗃️ Veritabanı Videosu:
+https://drive.google.com/file/d/1azIz_nH6PN2oAZi3jLNbs9ylFsWgQQf3/view?usp=sharing
+
+📦 APK Dosyası (Drive):
+https://drive.google.com/file/d/1gVoNou-f-mrFoyrXQvu6zPH7kjG2Yhz/view?usp=sharing
+
+🚀 APK Dosyası (Expo Build):
+https://expo.dev/accounts/sedefkjamili/projects/PetopiaRN/builds/8f12662a-b592-49dd-80a9-a4080554b09f
+
+📁 Tüm Dosyalar (PDF, Video, APK dahil):
+https://drive.google.com/drive/folders/1nw_bHYdDb_kDQwIEEz3X91AVQkiM7FOv?usp=sharing**  
+
+👉 **PDF rapor ve diğer belgeler için GitHub dosyalarını inceleyebilirsiniz.**
 
 ## 🛠 Kullanılan Teknolojiler
 
