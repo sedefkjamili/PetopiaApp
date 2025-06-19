@@ -12,7 +12,6 @@ Projede **MongoDB Atlas (online veritabanı)** kullanılmıştır. Uygulama, hay
 - 📱 APK Dosyası
 - 📄 project_info.txt dosyası (özet ve notlar)  
 
-   **🔗 Proje Bağlantıları
 🎥 Video Linki:
 https://drive.google.com/file/d/10JmpK84SoS01ouBpKJGTGVjk2NjN28zj/view?usp=sharing
 
